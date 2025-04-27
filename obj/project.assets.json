@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\PycharmProjects\\dotnet\\dotnet.csproj",
+      "projectUniqueName": "D:\\Projects\\NimbusCore--Microservices-Architecture-Application\\dotnet.csproj",
       "projectName": "dotnet",
-      "projectPath": "D:\\Projects\\PycharmProjects\\dotnet\\dotnet.csproj",
+      "projectPath": "D:\\Projects\\NimbusCore--Microservices-Architecture-Application\\dotnet.csproj",
       "packagesPath": "C:\\Users\\dell pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PycharmProjects\\dotnet\\obj\\",
+      "outputPath": "D:\\Projects\\NimbusCore--Microservices-Architecture-Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
